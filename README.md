@@ -50,7 +50,8 @@ END
 ```
 ## OUTPUT(Ascending order)
 
-<img width="1908" height="971" alt="image" src="https://github.com/user-attachments/assets/e1407715-cb07-461d-a4cd-50dbd6c84dc5" />
+<img width="1694" height="490" alt="Screenshot 2025-10-06 203349" src="https://github.com/user-attachments/assets/7913f78f-2b71-4f46-8997-315129828e24" />
+
 
 
 
@@ -96,7 +97,8 @@ END
 ```
 ## OUTPUT(Descending order)
 
-<img width="1917" height="1035" alt="image" src="https://github.com/user-attachments/assets/1850f949-87ab-428e-b43a-483e9b444fa5" />
+<img width="1681" height="437" alt="Screenshot 2025-10-06 201654" src="https://github.com/user-attachments/assets/5f9da3c1-137e-4f08-8f9c-236156a18363" />
+
 
 
 
